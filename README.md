@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, my name is Sébastien Moulène.
+I’m a senior freelance front-end developer since 2003 and I’m also lead front-end developer at [@lespoupeesrusses](https://github.com/lespoupeesrusses)
+
+- 🚀 &nbsp;SASS, BEM methodology, jQuery, Vanilla JS, Gulp, Git, Rails
+- 💻 &nbsp;Prestashop, SAP Hybris and Wordpress.
 
 <!--
 **sebousan/sebousan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
