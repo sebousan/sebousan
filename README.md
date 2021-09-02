@@ -1,6 +1,6 @@
 ### Hi 👋
-I’m a senior freelance front-end developer since 2003 and I’m also lead front-end developer at [@lespoupeesrusses](https://github.com/lespoupeesrusses)
+I’m a senior front-end developer since 2003, A part of [@Noesya](https://github.com/noesya)
 
-- 🚀 &nbsp;HTML, SASS, BEM methodology, jQuery, Javascript ES5, Gulp, Git, Bootstrap, Liquid, Rails, PHP
-- 💻 &nbsp;Wordpress, Prestashop, SAP Hybris, Middleman, Jekyll, Netlify CMS.
-- 🤓 &nbsp;Focus on Responsive Design, Performance and Accessibility.
+- 🚀 &nbsp;HTML, SASS, BEM, jQuery, Javascript ES5, Gulp, Git, Bootstrap, Liquid, Rails, PHP
+- 💻 &nbsp;Wordpress, Shopify, Prestashop, SAP Hybris, Middleman, Jekyll, Netlify CMS.
+- 🤓 &nbsp;Focus on Quality, Performance and Accessibility.
