@@ -1,6 +1,8 @@
-### Hi 👋
-I’m a senior front-end developer since 2003, A part of [@Noesya](https://github.com/noesya)
+### Bonjour 👋
 
-- 🚀 &nbsp;HTML, SASS, BEM, jQuery, Javascript ES5, Gulp, Git, Bootstrap, Liquid, Rails, PHP
-- 💻 &nbsp;Wordpress, Shopify, Prestashop, SAP Hybris, Jekyll, Netlify CMS.
-- 🤓 &nbsp;Focus on Quality, Performance and Accessibility.
+Je suis un développeur front-end depuis plus de 15 ans.
+
+Après de longues années à développer sur les CMS comme Wordpress, Prestashop et SAP Hybris.
+Je travaille désormais avec des sites generators comme Hugo et Jekyll, des Headless CMS comme Netlify CMS, ainsi que Shopify pour le e-commerce.
+
+Je suis certifié Opquast et “Développer des sites web accessibles“ d’Access42.
