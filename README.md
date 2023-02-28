@@ -1,7 +1,13 @@
-### Bonjour 👋
+# Bonjour 👋
 
-Développeur front-end depuis 20 ans.
+Front-end developer since 20 years ago.
 
-Je suis spécialisé en création de site web performant, éco-conçu et accessible à tous. Travaillant avec des précompilateurs de site comme `Hugo`, des Headless CMS comme `Netlify CMS`, ainsi que la solution SAAS `Shopify` pour le e-commerce.
+I specialize in high-performance, low carbon and accessible websites. Working with site precompilers like `Hugo`, Headless CMS like `Netlify CMS`, as well as `Shopify` SAAS solution for e-commerce.
 
-Je suis certifié **Opquast** et “**Développer des sites web accessibles**“ d’Access42.
+I am certified **Opquast** and “**Developing accessible websites**“ from Access42.
+
+## Open source project
+
+[![Hugolify](https://user-images.githubusercontent.com/4457294/221919040-81dc6755-048b-4d9f-8115-2ab968415b0e.png)](https://www.hugolify.io/)
+
+Jamstack solution for building easily a fast, as accessible as possible and low carbon website!
