@@ -2,7 +2,8 @@
 
 Front-end developer since 20 years ago.
 
-I specialize in high-performance, low carbon and accessible websites. Working with site precompilers like `Hugo`, Headless CMS like `Netlify CMS`, as well as `Shopify` SAAS solution for e-commerce.
+I specialize in low carbon and accessible websites.\
+I’m in love site `Hugo`, `Netlify CMS` and `Shopify` :)
 
 I am certified **Opquast** and “**Developing accessible websites**“ from Access42.
 
