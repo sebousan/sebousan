@@ -1,9 +1,9 @@
 # Bonjour 👋
 
-Front-end developer since 20 years ago.
+Front-end developer for over 20 years.
 
 I specialize in low carbon and accessible websites.\
-I’m in love site `Hugo`, `Decap CMS` and `Shopify` :)
+And in love with `Hugo` :)
 
 I am certified **Opquast** and “**Developing accessible websites**“ from Access42.
 
