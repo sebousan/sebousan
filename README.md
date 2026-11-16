@@ -10,7 +10,7 @@ I am certified **Opquast** and “**Developing accessible websites**“ from Acc
 
 ## Open source projects
 
-[![Hugolify](https://github.com/user-attachments/assets/420a9824-97eb-4f66-b6c4-8cce02f91545)](https://www.hugolify.io)
+[![Hugolify](https://github.com/user-attachments/assets/1c96381d-9bf3-43a1-b1db-a6f5745042ae)](https://www.hugolify.io)
 
 [![Socle](https://github.com/user-attachments/assets/ddf3a449-2e59-4ff6-87b5-79902ad85dc8)](https://socle.uncinq.dev/)
 
